@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Topesa
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning Unity and Unreal Engine.
+- 🌱 I’m currently learning **Unity** and **Unreal Engine**.
 - 💞️ I’m looking to collaborate on cool 2D or 3D game projects.
-- 📫 How to reach me: Email -> **pesa710@gmail.com**
+- 📫 How to reach me: 
+- E-mail -> **pesa710@gmail.com**
+- LinkedIN -> **Tomislav Pesa**
 
 <!---
 Topesa/Topesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
