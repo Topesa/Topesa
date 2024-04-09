@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@Topesa**
-- 👀 I’m interested in **surveillance systems, alarm systems, Linux, cybersecurity and software development.**.
+- 👀 I’m interested in **surveillance systems, alarm systems, Linux, cybersecurity and software/game development.**.
 
 
 <!---
